@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cloud secure application engineering, open source software project, malware analysis, programming tools and technique
+- 🌱 I’m currently learning assembly, C, React, RestAPI, FastAPI, Axios, mySQL, mongoDB, pyhton, Vue.js, Bootstrap, expressJS, NodeJS, etc
+- 👯 I’m looking to collaborate on daily basis
+- 🤔 I’m looking for help with reviewing my pull request
+- 💬 Ask me about above stuff
+- 📫 How to reach me: via github
+- ⚡ Fun fact: spending Friday night on chess club night
+  
 <!--
 **aliyyanWijaya/aliyyanWijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
